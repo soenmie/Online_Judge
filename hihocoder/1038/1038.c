@@ -7,7 +7,7 @@
 
 int dp[N + 1], n, m, i, j, c, v;
 
-int main () {
+int main() {
     scanf("%d%d", &n, &m);
     for (i = 1; i <= n; ++i) {
         scanf("%d%d", &c, &v);
